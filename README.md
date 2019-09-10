@@ -8,9 +8,9 @@ demoing markdown
   this is blog content
   
   * we can have lists:
-    * that contain lists
-      1 that are in order
-      2 or maybe
+    1. that contain lists
+      1. that are in order
+      2. or maybe
     * not 
     
     We can do block quotes
