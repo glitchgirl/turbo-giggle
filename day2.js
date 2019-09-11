@@ -13,3 +13,7 @@ console.log(stringThree * numberOne);
 //bonus
 
 console.log(2 + false);
+console.log(true + false);
+if((true + false) == true){
+    console.log("js is weird");
+}
